@@ -1,2 +1,1 @@
-# jooyoung-chanwool.github.io
-Wedding Invitation!
+Repo for our wedding Invitation!
